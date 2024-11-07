@@ -17,4 +17,4 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["cifar10_client*"]  # Use underscore here
+include = ["flask_image_api*"]  # Use underscore here
